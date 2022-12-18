@@ -1,5 +1,7 @@
 # polynomial.js
 
+Visit the [wiki](https://github.com/TrueSunGaming/polynomial.js/wiki) for more information!
+
 An algebra library by TrueSunGaming.
 
 Includes the classes `Expression` and `Equation` to organize polynomials.
