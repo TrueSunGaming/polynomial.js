@@ -37,7 +37,7 @@ class Expression {
     }
 
     /**
-     * Creates an expression with one term.
+     * Creates a monomial expression.
      * @param {number} coef Coefficient
      * @param {number} pow Power of x
      * @returns {Expression} the generated expression.
